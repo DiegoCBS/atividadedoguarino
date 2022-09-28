@@ -1,0 +1,115 @@
+
+#image {
+    width: 100%;
+    height: 50%;
+    align-content: center;
+    justify-content: center;
+    max-height: 100px;
+}
+
+body{
+    font-family: Consolas, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+section{
+    margin: 20px;
+    padding:20px;
+    text-align: left;
+    width:auto;
+    height:auto;
+
+}
+
+footer {
+    height: 10%;
+    border-bottom: 7px solid rgb(176, 0, 0);
+    margin: 5px;
+    padding: 10px;
+    text-align: left;
+    background-color: black;
+    position: relative;
+    bottom: 100%;
+    color: black;
+}
+
+#menu-h {
+    list-style: none;
+    background-color: rgb(176, 0, 0);
+    margin: 5px;
+    padding: 10px;
+    font-size: large;
+    color: white;
+}
+
+#containerh {
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    border-right: solid 3px;
+    align-content: center;
+    color: black;
+    text-size-adjust: auto;
+}
+
+#containerhob {
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    border-right: solid 3px;
+    align-content: center;
+    color: black;
+    text-size-adjust: auto;
+}
+
+#containerhis {
+    padding: 5px;
+    text-align: center;
+    margin: 5px;
+    align-content: center;
+    color: white;
+    text-size-adjust: auto;
+}
+
+#menu-h li {
+    display: inline;
+}
+
+#menu-h li a {
+    display: inline;
+    text-align: start;
+}
+
+#menu-h li a {
+    display: inline;
+    text-align: center;
+}
+
+#menu-h li a {
+    display: inline;
+    text-align: end;
+}
+
+.sobre{
+
+}
+
+#menu-footer {
+    list-style: none;
+    background-color: rgb(176, 0, 0);
+    margin: 5px;
+    padding: 10px;
+}
+
+#menu-footer li {
+    font-size: medium;
+
+}
+
+#imagehobbies{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap:normal;
+}
+
+
+
